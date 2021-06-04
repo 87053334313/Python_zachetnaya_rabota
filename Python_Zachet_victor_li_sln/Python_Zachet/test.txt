@@ -1,0 +1,4 @@
+[ Category=Chay, Name=Assam, Cost=250, Date=2021-06-04 19:04:28.335700 ]
+[ Category=Chocolate, Name=Kazakhstan, Cost=400, Date=2021-06-04 19:26:17.072242 ]
+[ Category=Chicken, Name=Severnoe_Syyanie, Cost=350, Date=2021-06-04 22:35:24.714250 ]
+[ Category=IceCream, Name=Bomba, Cost=100, Date=2021-06-04 22:37:47.344858 ]
